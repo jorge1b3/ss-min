@@ -1,6 +1,6 @@
 name = "This Rocks!"
 filename = "rocks-1.9.3+1.21.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Sb5ypgDP/versions/UZHukeyT/rocks-1.9.3%2B1.21.1.jar"

@@ -416,6 +416,11 @@ hash = "5f694b0c16bfbf69b05cb28eef7a553ae548e623bc2cbccc98e01d950d3611db"
 metafile = true
 
 [[files]]
+file = "mods/inventory-management.pw.toml"
+hash = "40b85465f985bcb300b89018271103db50340ac99949502fc3ff64fb50bcbbae"
+metafile = true
+
+[[files]]
 file = "mods/inventorytweak.pw.toml"
 hash = "71e54cb56253d68cc59a74d0680bb3ecc4a926cdaacc225f0cd0619e3feb81ca"
 metafile = true
