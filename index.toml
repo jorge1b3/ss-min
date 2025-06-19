@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-nether-map.pw.toml"
-hash = "823d504f7256c8223cd30f2617753a8e5b6dc67dd223897fd16273421ef57960"
+hash = "168009c9e42bde0e33bd898c188f747ad6acb7a90e7d32e4e9f6e7f46fb6ef5f"
 metafile = true
 
 [[files]]
@@ -418,11 +418,6 @@ metafile = true
 [[files]]
 file = "mods/inventory-management.pw.toml"
 hash = "40b85465f985bcb300b89018271103db50340ac99949502fc3ff64fb50bcbbae"
-metafile = true
-
-[[files]]
-file = "mods/inventorytweak.pw.toml"
-hash = "71e54cb56253d68cc59a74d0680bb3ecc4a926cdaacc225f0cd0619e3feb81ca"
 metafile = true
 
 [[files]]
@@ -792,7 +787,7 @@ metafile = true
 
 [[files]]
 file = "mods/this-rocks.pw.toml"
-hash = "f7cb479ece22f139195a8d2081bfba05f793c1e015212b08c5fe4df96851a61c"
+hash = "e9085719ab8268c9751e3913a957caa868ed655d806529c2316923191c30006a"
 metafile = true
 
 [[files]]
