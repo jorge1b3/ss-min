@@ -1,0 +1,13 @@
+name = "Exposure Knowlogy"
+filename = "exposure_knowlogy-fabric-1.1.0-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/onbX6Nsj/versions/ovzOXueB/exposure_knowlogy-fabric-1.1.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "be31e423fd93c3b4e6efc0ec73928e9f7cebeb94cc65680dce48eb9cc3f952520a3789a03ef4fb3926951d647c06ff16922dd5e41b0e0abe74017739ae9f6b07"
+
+[update]
+[update.modrinth]
+mod-id = "onbX6Nsj"
+version = "ovzOXueB"

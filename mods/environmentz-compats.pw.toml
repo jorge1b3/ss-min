@@ -1,0 +1,13 @@
+name = "EnvironmentZ Compats"
+filename = "environmentz-compats-2.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/STanR2Xe/versions/XnbAfhzs/environmentz-compats-2.0.6.jar"
+hash-format = "sha512"
+hash = "25c5ad66d614cb5af88dafd84e07a8c8ae84194520ebca3f70b61e356f0b3ac6a23faaecd02d75b7b5c267bc53716d269ce11445e87ec6100bf2e48885f5cce5"
+
+[update]
+[update.modrinth]
+mod-id = "STanR2Xe"
+version = "XnbAfhzs"

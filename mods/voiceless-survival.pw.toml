@@ -1,0 +1,13 @@
+name = "Voiceless Survival"
+filename = "Voiceless Survival 1.21.1-0.8.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JJ3q7W2X/versions/JjcLKpsj/Voiceless%20Survival%201.21.1-0.8.2.jar"
+hash-format = "sha512"
+hash = "c74ea88826460bbf61cab79b9c004e27fd77815b3425af44b312b8ada4faefa4898490df1fb824152407d3eb995b0de8a02650a5412b0884e278220e665a6957"
+
+[update]
+[update.modrinth]
+mod-id = "JJ3q7W2X"
+version = "JjcLKpsj"

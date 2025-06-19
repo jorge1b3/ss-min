@@ -1,0 +1,13 @@
+name = "Stacked Blocks: Supplementaries"
+filename = "stackedblockssupplementaries-25.05.06-1.21-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vgtM0kV7/versions/VPGM5gv9/stackedblockssupplementaries-25.05.06-1.21-fabric.jar"
+hash-format = "sha512"
+hash = "8cd2b7b4ab57b7e949b9920739e9804a0f7d0d215f06a99e741c4eb9896efde18bd308c62cc37b6c16226fdc73d304599081d1f29f453a9a27e154899eaa9de3"
+
+[update]
+[update.modrinth]
+mod-id = "vgtM0kV7"
+version = "VPGM5gv9"

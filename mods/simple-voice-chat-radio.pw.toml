@@ -1,0 +1,13 @@
+name = "Simple Voice Chat Radio"
+filename = "radio-1.1.1+1.20.6.fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ab2GBNpI/versions/TrVAb9cR/radio-1.1.1%2B1.20.6.fabric.jar"
+hash-format = "sha512"
+hash = "23759a1263a2d9afc4dbb87bd2a8dfce2d1f34ea1c8e4b05ef37c14ae706869248724d36872753151227064a5a2aac43b25e1c6e9f57ab60b1035c5e6c68dec4"
+
+[update]
+[update.modrinth]
+mod-id = "Ab2GBNpI"
+version = "TrVAb9cR"

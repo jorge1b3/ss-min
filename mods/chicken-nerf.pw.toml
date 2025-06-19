@@ -1,0 +1,13 @@
+name = "Chicken Nerf"
+filename = "chicken-nerf-1.1.1+MC1.21-1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/KoP5DUTS/versions/XoPMyHpV/chicken-nerf-1.1.1%2BMC1.21-1.21.1.jar"
+hash-format = "sha512"
+hash = "8c5b6b0989955e29ccffcf17ce05b1a6339fcd28f95ecbd9968cfc172228806db753edd76d5dbff70ad09a0fa81b0321bcb672a446c2a643b2e729699ad6631f"
+
+[update]
+[update.modrinth]
+mod-id = "KoP5DUTS"
+version = "XoPMyHpV"

@@ -1,0 +1,13 @@
+name = "Pk"
+author = "Jorge"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9fbd100e126f53fbaa40aef3b721734857a34f2feb8df468d38e1f044dd95947"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.21.1"
