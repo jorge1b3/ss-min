@@ -11,6 +11,11 @@ hash = "05e3fa4144ef169a66d5af6bfe9868153986201f177239a95910855aaccba733"
 metafile = true
 
 [[files]]
+file = "mods/advancement-plaques.pw.toml"
+hash = "24f34115b7cd62b3d21d5359dd9122a0affbd5e30142657175f9359982c44d1e"
+metafile = true
+
+[[files]]
 file = "mods/adventurez.pw.toml"
 hash = "ce4d986ed254f8a270f3de8f37a6fe39a4b9ddf11fd59816687f15923bfb0164"
 metafile = true
@@ -58,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/attributefix.pw.toml"
 hash = "d37f4cf0a2cbf0dcd6f1bfc5e8e580c8e97cb44f5f31f467290ed781a5a16fd6"
+metafile = true
+
+[[files]]
+file = "mods/audaki-cart-engine.pw.toml"
+hash = "b0e24748243ebef6cf35d7f4c523e002693da0697cf94897d6b1a72fcd160b2c"
 metafile = true
 
 [[files]]
@@ -361,6 +371,11 @@ hash = "8945ea290647fec8b91c24bd81821ee1d73d84a968d23260dbee24ceb951db4d"
 metafile = true
 
 [[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "1c15f8ebc80780904711b114c48f470690ef6f06a83f9bda28e1c6da9d0acfae"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "dfdaa958fcc51d253c58fd8791ea6345fac0f6cc2dad9a49a1d4635b6b5d14a7"
 metafile = true
@@ -381,6 +396,11 @@ hash = "f9d89c62265e675839395d925f4162e3e93fda837ed50fbe3832f4ae9c58bebb"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "795a817b8c5c451c6a5af444f1c02515e48664bbe0b0b45368d06f6eaedf5d24"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "499270116a69668fbc24ea6fdb429927e8eb63d81ad17aebc40b7af65bccafe1"
 metafile = true
@@ -391,8 +411,18 @@ hash = "1eca834248d3420fd44ffb6cc17194c94c974e331e324f579ed5ae9a649a2526"
 metafile = true
 
 [[files]]
+file = "mods/gliders.pw.toml"
+hash = "1c66fbc669b7ef2716943572836ce4ded83831010368ce316ef4fdbd769ddab7"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "2600fb5f2efa6dffd1bcc04eea4c2646c101da4320da0c88d5616d5c2f41a439"
+metafile = true
+
+[[files]]
+file = "mods/herdspanic.pw.toml"
+hash = "2ae51f2cd1ba919930db04fb82afb36c05ab3cd7826be5956d28c9d5d1238231"
 metafile = true
 
 [[files]]
@@ -476,6 +506,11 @@ hash = "c4e45594c8d1ab3dacc3b49142f16fb253178dd31d97cc917bf4a4d54f21e081"
 metafile = true
 
 [[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "7c6239fe970cd45a1f680493b9fceef6870afcfd2de72086bfef3f765bd3c4c6"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "ba5c3f46736bdb93afcfb86134f559e8e2f8161c58105eb15b799578b477d36c"
 metafile = true
@@ -488,6 +523,16 @@ metafile = true
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
 hash = "bf1904c233ebafbe5bb2a70390b0f94457d4f953d9168219f8048b83a76c8ead"
+metafile = true
+
+[[files]]
+file = "mods/lighty.pw.toml"
+hash = "a78179358b2f731508af75630fb91d27d5cd947088cea4b62c3935ce18e67466"
+metafile = true
+
+[[files]]
+file = "mods/litematica.pw.toml"
+hash = "d706e79be5fc1de6232fbde8bfdce640ec417e47d33e191192d195937ba94f27"
 metafile = true
 
 [[files]]
@@ -507,12 +552,22 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "358a4ea31ab4385e7ae0b48888adf95b2362cbf5126dcda750063c557e3eb8b1"
+hash = "d9221689ffa47dcd27e6c0590ba7b3227f83d48a6e9592cd09e1835f143d793a"
 metafile = true
 
 [[files]]
 file = "mods/mas-effects.pw.toml"
 hash = "2ff2eda74b3dd162770b5e8304e8dc1d7cc1c89aa05968716be3ff3ba712fe69"
+metafile = true
+
+[[files]]
+file = "mods/merchant-markers.pw.toml"
+hash = "fbce0c5c51063f3b659a8048d84f94b35d4d3f271eb64e5ecba69bcbfdd8bc0b"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "ff8241f2c5091e189a064b16dd50f5b13fc14811d8e2612b877708591c1d4e62"
 metafile = true
 
 [[files]]
@@ -696,6 +751,11 @@ hash = "f9a52a47c4e0c8aca52169f17406eac34c8bf6bb3b9d049c57414345c8d78315"
 metafile = true
 
 [[files]]
+file = "mods/seasonhud-fabric.pw.toml"
+hash = "5d3be1c58cfb439d73acb5d4d2e990bd113324ec0e84f5ba3eae3cbd7817e08e"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat-radio.pw.toml"
 hash = "77157dcb840141324712b878937bdfdf6fb18fc26f6c058ba6d9b8a15ad5ca5c"
 metafile = true
@@ -761,6 +821,11 @@ hash = "1fa203fbf7578d4f6fc251b3529cf79935d7e4a573a281241de74e488be639b7"
 metafile = true
 
 [[files]]
+file = "mods/subtle-effects.pw.toml"
+hash = "75ffc1e0f1068f383f4e13f4cb0c5818b372b8024afdc0cd0bf14f6a361df838"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "e0bdc9a026d55bda0ad82b3177fa323f14c239eef9921a493984f865e6fde500"
 metafile = true
@@ -781,8 +846,8 @@ hash = "2abab42cc7f1a19201d0e100d855c5a154dd440d125a49800e74820016bf1c72"
 metafile = true
 
 [[files]]
-file = "mods/talk-balloons.pw.toml"
-hash = "e094d41deeb38ebf53f69a638ebe16a3eef2b60ec8268e8d558508cef5f15a86"
+file = "mods/talkbubbles.pw.toml"
+hash = "a49024ce7fd740a18cbd279c96e70412ca3845c2d874a2acf66eceb039f57a2d"
 metafile = true
 
 [[files]]
@@ -813,6 +878,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
+metafile = true
+
+[[files]]
+file = "mods/true-ending.pw.toml"
+hash = "01ceaadc4312cec47b35c619dec9875fd5600e81202980afe79f27c91d6ac311"
 metafile = true
 
 [[files]]
