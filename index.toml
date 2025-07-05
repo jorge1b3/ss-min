@@ -71,6 +71,11 @@ hash = "b0e24748243ebef6cf35d7f4c523e002693da0697cf94897d6b1a72fcd160b2c"
 metafile = true
 
 [[files]]
+file = "mods/axes-are-weapons.pw.toml"
+hash = "f6e7c4ce9387487dd7214bfe5fc1c210500a67442cd1ef06183637efe82adc6c"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "b065522e317aa748182d8a549db134331c3dbb1486e78f4178e2a6d0299eac25"
 metafile = true
@@ -131,6 +136,11 @@ hash = "17b40cfda4539840d350572bc5693a5984e862ecb58c2458f33822a074381bc4"
 metafile = true
 
 [[files]]
+file = "mods/calcmod.pw.toml"
+hash = "77c88fc2f3c4d3a17c329e83ac40ea091410fa1f0b5ba5d812beb8e9c30e26cb"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "56d0a735ef8c0bfe4ee06bfa66cd11753002c98411eb167cad68f8adcbd76d0a"
 metafile = true
@@ -181,6 +191,11 @@ hash = "59c5735e0406ca01292a4e4d04ff0d76c087af3f9439a12c9b85c606ae4b561e"
 metafile = true
 
 [[files]]
+file = "mods/chickensshed.pw.toml"
+hash = "5980c97f2502e03850c3dea5e8bf8e21dcdbc353c807b0cfcc8a30b129dce721"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
 metafile = true
@@ -203,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "55176d940577a671525a837cb9db04380a0d3339f2b93314d5df9001653347f9"
+metafile = true
+
+[[files]]
+file = "mods/companion.pw.toml"
+hash = "6d54a46692045cfc01f46f0112c658e8ca431bce160493f9669afbe9c1cbf007"
 metafile = true
 
 [[files]]
@@ -501,6 +521,11 @@ hash = "21b9a925ddf3c8b067a964dccf524a09f5a5c66b3f15591d691943d87980a741"
 metafile = true
 
 [[files]]
+file = "mods/kiwi.pw.toml"
+hash = "2cb9f11e70a27fed5aef1aaefba8f5799c49886787f9c92ef76be46ea8d399ea"
+metafile = true
+
+[[files]]
 file = "mods/knowlogy.pw.toml"
 hash = "4ac43c9257c0a4cf7a6d7b31a62524fb1ab5662d54d906c9b6909fa6c6b65fc7"
 metafile = true
@@ -578,6 +603,11 @@ metafile = true
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "28d2108bfb6cb8d6667626e1f1e7558f64817a7528d6e3592ece33cffd034caa"
+metafile = true
+
+[[files]]
+file = "mods/mobstacker.pw.toml"
+hash = "3092f3d1d0e01cc5d78f3dc3fada36e6eac72920cf6153bb7fa95d3bf74edb83"
 metafile = true
 
 [[files]]
@@ -731,8 +761,18 @@ hash = "c1cf218d3c9dbf16ec9b93ae536831fd17805def799eab72b9f79a9896f5999f"
 metafile = true
 
 [[files]]
+file = "mods/quicksort.pw.toml"
+hash = "3566c1fd72443a1b08ffe13ec7ee847ad21bf8cdca9ce69234832a62d0a1d48d"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
+metafile = true
+
+[[files]]
+file = "mods/regexing-hoppers.pw.toml"
+hash = "247389d2a40cee470ce861d9dd3e4bc83931ec3e6434fdd09489e5f9c60c293c"
 metafile = true
 
 [[files]]
@@ -826,6 +866,11 @@ hash = "1fa203fbf7578d4f6fc251b3529cf79935d7e4a573a281241de74e488be639b7"
 metafile = true
 
 [[files]]
+file = "mods/stdrdc.pw.toml"
+hash = "8f523e213c86a3277a00ce7196e26f714dd9b2fdc753f15862a5605784cf592e"
+metafile = true
+
+[[files]]
 file = "mods/subtle-effects.pw.toml"
 hash = "75ffc1e0f1068f383f4e13f4cb0c5818b372b8024afdc0cd0bf14f6a361df838"
 metafile = true
@@ -866,6 +911,11 @@ hash = "e9085719ab8268c9751e3913a957caa868ed655d806529c2316923191c30006a"
 metafile = true
 
 [[files]]
+file = "mods/tick-stasis.pw.toml"
+hash = "08f7763d759fb7778ae0560e8adf66e4721fc6d9e46802f51ecced02716bdef3"
+metafile = true
+
+[[files]]
 file = "mods/timeoutout.pw.toml"
 hash = "8eb676c3f60e847715828e28ac1dc41ee85df4dcffcad95047e8044febe18f93"
 metafile = true
@@ -883,11 +933,6 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "87a7c9f5b668931d382fa764041fb69c97134f786132d8834d03ff1a4a3d42fd"
-metafile = true
-
-[[files]]
-file = "mods/trinkets.pw.toml"
-hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
 metafile = true
 
 [[files]]

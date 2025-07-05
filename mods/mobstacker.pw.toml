@@ -1,0 +1,13 @@
+name = "MobStacker"
+filename = "MobStacker-1.21.1-2-fabric-1.0.14b.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/4x0lvE1l/versions/vvVXs6u9/MobStacker-1.21.1-2-fabric-1.0.14b.jar"
+hash-format = "sha512"
+hash = "d883ab6a2f86e1f43e029af6350777ab3f31c15619bd34b9210d93a79d9f225e4eb8bc9c86fca022aab01948e3551752116b1f8890a03af634a303b64e5c6956"
+
+[update]
+[update.modrinth]
+mod-id = "4x0lvE1l"
+version = "vvVXs6u9"
