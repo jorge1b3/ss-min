@@ -521,11 +521,6 @@ hash = "21b9a925ddf3c8b067a964dccf524a09f5a5c66b3f15591d691943d87980a741"
 metafile = true
 
 [[files]]
-file = "mods/kiwi.pw.toml"
-hash = "2cb9f11e70a27fed5aef1aaefba8f5799c49886787f9c92ef76be46ea8d399ea"
-metafile = true
-
-[[files]]
 file = "mods/knowlogy.pw.toml"
 hash = "4ac43c9257c0a4cf7a6d7b31a62524fb1ab5662d54d906c9b6909fa6c6b65fc7"
 metafile = true
